@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body{
+   
+        font-family: "Rubik", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+      
+}
+
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+
+.flex{
+  display: flex;
+
+}
+.content{
+  width: 100%;
+  
+}
+#tablaocultacompl{
+  display: none;
+}
+
+#tablaocultaxdias{
+  display: none;
+}
+
+  
+
+
+
+
+
+
